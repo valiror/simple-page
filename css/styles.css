@@ -1,0 +1,102 @@
+*{padding:0px;margin:0px;}
+.about-us{background-color: #00CCCC;padding: 30px 30px;}
+.about-us h3{color: #ffffff;font-size: 25px;font-weight:bold;text-align: center;padding-bottom: 25px;}
+.about-us p{color: ;padding-left: 5%;padding-right: 5%;font-size: 16px;}
+.skills{background-color: #0A8FD6;color: #fff;
+padding: 50px 65px;}
+.skills h3{color: #ffffff;font-size: 25px;font-weight:bold;text-align: center;padding-bottom: 25px;}
+.circle-bound{width: 100px;
+height: 100px;padding: 40px 40px;margin-left: 35px;margin-right: 35px;
+border: 1px solid #ccc;cursor: pointer;
+border-radius: 50px;}
+.more{background-color: #009966;padding: 30px 30px;}
+.more h3{color: #567890;font-size: 25px;font-weight:bold;text-align: center;padding-bottom: 25px;}
+a{text-decoration: none;color: #456789;}
+a:hover{text-decoration: none;color: #456789;}
+.more p{color: #ffffff;text-align: center;}
+.btn-more{color: #ffffff;background-color: #00bfff;text-align: center;border:1px solid #00bfff;}
+.btn-more:hover{color: #ffffff;background-color: #00bfff;text-align: center;border:1px solid #00bfff;}
+.btn-more:active{color: #ffffff;background-color: #00bfff;text-align: center;border:1px solid #00bfff;}
+/* Responsive css  */
+
+
+@media only screen and (min-width: 320px){
+.about-us{background-color: #00CCCC;padding: 30px 30px;}
+.about-us h3{color: #ffffff;font-size: 25px;font-weight:bold;text-align: center;padding-bottom: 25px;}
+.about-us p{color: ;padding-left: 5%;padding-right: 5%;font-size: 16px;}
+.skills{background-color: #0A8FD6;color: #fff;
+padding: 50px 65px;}
+.skills h3{color: #ffffff;font-size: 25px;font-weight:bold;text-align: center;padding-bottom: 25px;}
+.circle-bound{width: 100px;
+height: 100px;padding: 40px 40px;margin-left: 35px;margin-right: 35px;
+border: 1px solid #ccc;cursor: pointer;
+border-radius: 50px;}
+.more{background-color: #009966;padding: 30px 30px;}
+.more h3{color: #567890;font-size: 25px;font-weight:bold;text-align: center;padding-bottom: 25px;}
+a{text-decoration: none;color: #456789;}
+a:hover{text-decoration: none;color: #456789;}
+}
+@media only screen and (min-width: 480px){
+.about-us{background-color: #00CCCC;padding: 30px 30px;}
+.about-us h3{color: #ffffff;font-size: 25px;font-weight:bold;text-align: center;padding-bottom: 25px;}
+.about-us p{color: ;padding-left: 5%;padding-right: 5%;font-size: 16px;}
+.skills{background-color: #0A8FD6;color: #fff;
+padding: 50px 65px;}
+.skills h3{color: #ffffff;font-size: 25px;font-weight:bold;text-align: center;padding-bottom: 25px;}
+.circle-bound{width: 100px;
+height: 100px;padding: 40px 40px;margin-left: 20px;margin-right: 20px;
+border: 1px solid #ccc;cursor: pointer;
+border-radius: 50px;}
+.more{background-color: #009966;padding: 30px 30px;}
+.more h3{color: #567890;font-size: 25px;font-weight:bold;text-align: center;padding-bottom: 25px;}
+a{text-decoration: none;color: #456789;}
+a:hover{text-decoration: none;color: #456789;}	
+}
+@media only screen and (min-width: 768px){
+.about-us{background-color: #00CCCC;padding: 30px 30px;}
+.about-us h3{color: #ffffff;font-size: 25px;font-weight:bold;text-align: center;padding-bottom: 25px;}
+.about-us p{color: ;padding-left: 5%;padding-right: 5%;font-size: 16px;}
+.skills{background-color: #0A8FD6;color: #fff;
+padding: 50px 65px;}
+.skills h3{color: #ffffff;font-size: 25px;font-weight:bold;text-align: center;padding-bottom: 25px;}
+.circle-bound{width: 100px;
+height: 100px;padding: 40px 40px;margin-left: 35px;margin-right: 35px;
+border: 1px solid #ccc;cursor: pointer;
+border-radius: 50px;}
+.more{background-color: #009966;padding: 30px 30px;}
+.more h3{color: #567890;font-size: 25px;font-weight:bold;text-align: center;padding-bottom: 25px;}
+a{text-decoration: none;color: #456789;}
+a:hover{text-decoration: none;color: #456789;}	
+}
+@media only screen and (min-width: 992px){
+.about-us{background-color: #00CCCC;padding: 30px 30px;}
+.about-us h3{color: #ffffff;font-size: 25px;font-weight:bold;text-align: center;padding-bottom: 25px;}
+.about-us p{color: ;padding-left: 5%;padding-right: 5%;font-size: 16px;}
+.skills{background-color: #0A8FD6;color: #fff;
+padding: 50px 65px;}
+.skills h3{color: #ffffff;font-size: 25px;font-weight:bold;text-align: center;padding-bottom: 25px;}
+.circle-bound{width: 100px;
+height: 100px;padding: 40px 40px;margin-left: 35px;margin-right: 35px;
+border: 1px solid #ccc;cursor: pointer;
+border-radius: 50px;}
+.more{background-color: #009966;padding: 30px 30px;}
+.more h3{color: #567890;font-size: 25px;font-weight:bold;text-align: center;padding-bottom: 25px;}
+a{text-decoration: none;color: #456789;}
+a:hover{text-decoration: none;color: #456789;}	
+}
+@media only screen and (min-width: 1200px){
+.about-us{background-color: #00CCCC;padding: 30px 30px;}
+.about-us h3{color: #ffffff;font-size: 25px;font-weight:bold;text-align: center;padding-bottom: 25px;}
+.about-us p{color: ;padding-left: 5%;padding-right: 5%;font-size: 16px;}
+.skills{background-color: #0A8FD6;color: #fff;
+padding: 50px 65px;}
+.skills h3{color: #ffffff;font-size: 25px;font-weight:bold;text-align: center;padding-bottom: 25px;}
+.circle-bound{width: 100px;
+height: 100px;padding: 40px 40px;margin-left: 35px;margin-right: 35px;
+border: 1px solid #ccc;cursor: pointer;
+border-radius: 50px;}
+.more{background-color: #009966;padding: 30px 30px;}
+.more h3{color: #567890;font-size: 25px;font-weight:bold;text-align: center;padding-bottom: 25px;}
+a{text-decoration: none;color: #456789;}
+a:hover{text-decoration: none;color: #456789;}	
+}
